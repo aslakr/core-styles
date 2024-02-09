@@ -185,19 +185,19 @@ abbr, acronym, bdo, button, fieldset, ins, label	{
 		
 body	{	
 	color:	black;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 em	{	
 	font-style:	normal;
 	font-weight:	bold;
 	color:	black;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 strong	{	
 	font-style:	italic;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	font-weight:	bold;
 	color:	black;
 	}	
@@ -206,7 +206,7 @@ em strong, strong em	{
 	text-transform:	uppercase;
 	font-style:	normal;
 	font-weight:	bolder;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	color:	black;
 	}	
 		
@@ -222,7 +222,7 @@ i	{
 	text-transform:	none;
 	font-style:	normal;
 	font-weight:	bolder;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	color:	black;
 	}	
 		
@@ -252,7 +252,7 @@ acronym	{
 		
 h1, h2, h3, h4, h5, h6, dt, th, thead, tfoot	{	
 	color:	black;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 hr	{	
@@ -268,41 +268,41 @@ col, colgroup, table, tbody, td, tr	{
 	text-decoration:	none;
 	border-color:	black;
 	border-style:	none;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 a:link	{	
 	text-decoration:	none;
 	font-weight:	bold; 
 	color:	#C00;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 a:visited	{	
 	text-decoration:	none;
 	font-weight:	bold;
 	color:	#69C;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 a:active	{	
 	text-decoration:	none;
 	font-weight:	bold;
 	color:	#C00;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #FF0;
+	background:	url(textura.gif) #FF0;
 	}	
 		
 a:hover	{	
 	text-decoration:	none;
 	color:	#F00;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 a.offsite	{	
 	text-decoration:	none;
 	font-weight:	normal;
 	color:	#C66;
-	background:	url(http://www.w3.org/StyleSheets/Core/source/graphics/textura.gif) #fffff5;
+	background:	url(textura.gif) #fffff5;
 	}	
 		
 	/* end affordances */	
