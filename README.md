@@ -9,7 +9,7 @@ The Core Styles is/was meant to be used by link to one the 8 style sheets "Oldst
 ```html
 <!DOCTYPE html>
 <title>Document title</title>
-<link href="https://www.w3.org/StyleSheets/Core/Modernist" rel="stylesheet" type="text/css">
+<link href="https://w3.org/StyleSheets/Core/Swiss" rel="stylesheet">
 <h1>Hello</h1>
 
 <p>A <em>small</em> text sample.
